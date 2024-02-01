@@ -1,0 +1,13 @@
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\Product.Core.csproj.AssemblyReference.cache
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\Product.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\Product.Core.AssemblyInfoInputs.cache
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\Product.Core.AssemblyInfo.cs
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\Product.Core.csproj.CoreCompileInputs.cache
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\Product.Core.sourcelink.json
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\bin\Debug\net8.0\Product.Core.deps.json
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\bin\Debug\net8.0\Product.Core.dll
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\bin\Debug\net8.0\Product.Core.pdb
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\Product.Core.dll
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\refint\Product.Core.dll
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\Product.Core.pdb
+C:\Users\yoiner.castillo\source\repos\Net8Crud\Product.Core\obj\Debug\net8.0\ref\Product.Core.dll
